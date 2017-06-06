@@ -1,2 +1,2 @@
 # pages
-Pages about MSMSTech
+Visit https://msmstech.github.io/about to get more info about us.
